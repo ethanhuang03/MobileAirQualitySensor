@@ -1,0 +1,28 @@
+Air Quality: Lack of sufficient ventilation from windows, especially in high-rise buildings
+that is easily deployable (in high pollution areas esspeically).
+
+How do people know if the ventilation is maintained good or operated improperly or needs maintenence? - sensors to tell?
+- this problem may lead to Indoor air pollution and health issues https://www.s4btradeally.com/ventilation-and-air-quality-problems-and-solutions/
+
+
+Another problem: all those filters reduce oxygen levels
+
+1. monitor air quality indoors and outdoors
+2. if air quality bad indoors and good outdoors, start switch air
+3. if air quality bad indoors and bad outdoors and multiple rooms, switch air between rooms based on human proximity
+4. if none of them possible, then start using ac?
+5. if dangerous, start disposing air and raise alarm?
+
+this solution is a tempoary solution before a more permamnet is installed 
+like air conditioning or proper ventilation or eve
+so replace air based on realtime measured data, not just fixed on time/temperature
+Solution should use off the shelf components and interface nicely with existing products
+
+
+Or?
+
+HRV using air quality to control, it is more safer and cheaper
+ie. if many people, it will start circulating more
+ie. if less people, it will start circulating less and only SPECIFIC ROOMS, so it is not needed to circulate entire rooms
+
+Prove that it is more efficient.

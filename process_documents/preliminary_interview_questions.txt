@@ -1,0 +1,34 @@
+1. covid 19 - quarantine hotel air ventialtion too old, need some way to filter air.
+- https://www.nzherald.co.nz/nz/covid-19-coronavirus-experts-urge-rethink-on-using-isolation-hotels-with-sub-par-ventilation/JPY2RIIN246PLZUZDJECRQIQMQ/
+- https://www.theguardian.com/politics/2021/feb/17/air-systems-in-some-uk-quarantine-hotels-risk-spreading-covid
+- https://www.washingtonpost.com/travel/tips/hotel-ac-ventilation-covid/
+- https://www.nzherald.co.nz/nz/covid-19-coronavirus-delta-outbreak-ventilation-at-wellingtons-bay-plaza-hotel-not-up-to-delta-standard/Z2VOML72KGA6BDSQXYM5VMPDBA/
+- https://www.nzherald.co.nz/nz/covid-19-delta-outbreak-lack-of-air-filtration-systems-in-miq-facilities-public-health-expert/XM3EZAANIB7242ZCDZHLWRJE6A/
+- https://www.nzherald.co.nz/nz/coronavirus-covid-19-better-ventilation-absolutely-critical-to-stopping-delta/A36PGG7PVO6DSYXJTZP2FLZMIA/
+
+
+2. describe the products
+- does it check for air quality or not
+- does it just filter
+
+3. medical standards vs normal standards for products, and how is the standards measured
+- your products vs HRV?
+
+4. how fast is it to deploy your products
+
+5. what can the current products do at current age?
+
+6. what is the concept?
+
+7. how to detect air quality -> time or quality, constantly on or manual?
+
+8. How effective is it
+
+9. How to clients choose which product
+
+10. How do people know if the ventilation is maintained good or operated improperly or needs maintenence?
+- will improper use lead to Indoor air pollution and health issues
+
+11. How likely will you deploy your heavy duty stuff at home?
+
+12. 

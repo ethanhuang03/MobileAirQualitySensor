@@ -1,0 +1,73 @@
+16:25:59.847 Temperature_(C): 19.30, Humidity_(%): 63.20, VOC_(PPM): 11443.86, CO2_(PPM): 409.00, PM1.0_(ug/m3): 6, PM2.5_(ug/m3): 7, PM10_(ug/m3): 7
+16:26:00.787 Temperature_(C): 19.30, Humidity_(%): 63.20, VOC_(PPM): 10824.15, CO2_(PPM): 409.00, PM1.0_(ug/m3): 8, PM2.5_(ug/m3): 10, PM10_(ug/m3): 10
+16:26:01.676 Temperature_(C): 19.30, Humidity_(%): 63.50, VOC_(PPM): 11812.88, CO2_(PPM): 409.00, PM1.0_(ug/m3): 9, PM2.5_(ug/m3): 11, PM10_(ug/m3): 11
+16:26:02.614 Temperature_(C): 19.30, Humidity_(%): 63.50, VOC_(PPM): 11174.42, CO2_(PPM): 409.00, PM1.0_(ug/m3): 12, PM2.5_(ug/m3): 16, PM10_(ug/m3): 16
+16:26:03.528 Temperature_(C): 19.30, Humidity_(%): 63.70, VOC_(PPM): 11800.44, CO2_(PPM): 409.00, PM1.0_(ug/m3): 13, PM2.5_(ug/m3): 18, PM10_(ug/m3): 18
+16:26:04.440 Temperature_(C): 19.30, Humidity_(%): 63.70, VOC_(PPM): 11800.44, CO2_(PPM): 409.00, PM1.0_(ug/m3): 15, PM2.5_(ug/m3): 19, PM10_(ug/m3): 19
+16:26:05.352 Temperature_(C): 19.30, Humidity_(%): 63.30, VOC_(PPM): 12225.19, CO2_(PPM): 409.00, PM1.0_(ug/m3): 15, PM2.5_(ug/m3): 20, PM10_(ug/m3): 20
+16:26:06.290 Temperature_(C): 19.30, Humidity_(%): 63.30, VOC_(PPM): 15405.94, CO2_(PPM): 409.00, PM1.0_(ug/m3): 17, PM2.5_(ug/m3): 22, PM10_(ug/m3): 22
+16:26:07.203 Temperature_(C): 19.30, Humidity_(%): 63.00, VOC_(PPM): 12518.58, CO2_(PPM): 409.00, PM1.0_(ug/m3): 15, PM2.5_(ug/m3): 20, PM10_(ug/m3): 20
+16:26:08.109 Temperature_(C): 19.30, Humidity_(%): 63.00, VOC_(PPM): 13376.14, CO2_(PPM): 409.00, PM1.0_(ug/m3): 13, PM2.5_(ug/m3): 18, PM10_(ug/m3): 18
+16:26:09.043 Temperature_(C): 19.30, Humidity_(%): 63.10, VOC_(PPM): 13222.47, CO2_(PPM): 410.00, PM1.0_(ug/m3): 13, PM2.5_(ug/m3): 18, PM10_(ug/m3): 18
+16:26:09.882 Temperature_(C): 19.30, Humidity_(%): 63.10, VOC_(PPM): 14439.70, CO2_(PPM): 410.00, PM1.0_(ug/m3): 13, PM2.5_(ug/m3): 18, PM10_(ug/m3): 18
+16:26:10.726 Temperature_(C): 19.30, Humidity_(%): 63.10, VOC_(PPM): 12791.73, CO2_(PPM): 410.00, PM1.0_(ug/m3): 13, PM2.5_(ug/m3): 18, PM10_(ug/m3): 18
+16:26:11.642 Temperature_(C): 19.40, Humidity_(%): 63.30, VOC_(PPM): 13748.79, CO2_(PPM): 416.00, PM1.0_(ug/m3): 10, PM2.5_(ug/m3): 14, PM10_(ug/m3): 14
+16:26:12.580 Temperature_(C): 19.40, Humidity_(%): 63.30, VOC_(PPM): 12868.74, CO2_(PPM): 424.00, PM1.0_(ug/m3): 9, PM2.5_(ug/m3): 13, PM10_(ug/m3): 13
+16:26:13.491 Temperature_(C): 19.40, Humidity_(%): 62.70, VOC_(PPM): 13491.85, CO2_(PPM): 433.00, PM1.0_(ug/m3): 6, PM2.5_(ug/m3): 11, PM10_(ug/m3): 11
+16:26:14.407 Temperature_(C): 19.40, Humidity_(%): 62.70, VOC_(PPM): 13197.61, CO2_(PPM): 441.00, PM1.0_(ug/m3): 5, PM2.5_(ug/m3): 9, PM10_(ug/m3): 9
+
+16:26:53.122 Temperature_(C): 19.70, Humidity_(%): 60.00, VOC_(PPM): 13673.71, CO2_(PPM): 558.00, PM1.0_(ug/m3): 1, PM2.5_(ug/m3): 1, PM10_(ug/m3): 1
+16:26:54.037 Temperature_(C): 19.70, Humidity_(%): 59.90, VOC_(PPM): 15103.12, CO2_(PPM): 559.00, PM1.0_(ug/m3): 2, PM2.5_(ug/m3): 3, PM10_(ug/m3): 3
+16:26:54.904 Temperature_(C): 19.70, Humidity_(%): 59.90, VOC_(PPM): 13832.37, CO2_(PPM): 560.00, PM1.0_(ug/m3): 2, PM2.5_(ug/m3): 3, PM10_(ug/m3): 3
+16:26:55.748 Temperature_(C): 19.80, Humidity_(%): 59.70, VOC_(PPM): 14733.24, CO2_(PPM): 561.00, PM1.0_(ug/m3): 2, PM2.5_(ug/m3): 3, PM10_(ug/m3): 3
+16:26:56.664 Temperature_(C): 19.80, Humidity_(%): 59.70, VOC_(PPM): 13945.60, CO2_(PPM): 563.00, PM1.0_(ug/m3): 3, PM2.5_(ug/m3): 3, PM10_(ug/m3): 3
+16:26:57.507 Temperature_(C): 19.70, Humidity_(%): 59.80, VOC_(PPM): 14303.95, CO2_(PPM): 563.00, PM1.0_(ug/m3): 3, PM2.5_(ug/m3): 3, PM10_(ug/m3): 3
+16:26:58.340 Temperature_(C): 19.70, Humidity_(%): 59.80, VOC_(PPM): 14621.72, CO2_(PPM): 564.00, PM1.0_(ug/m3): 3, PM2.5_(ug/m3): 3, PM10_(ug/m3): 3
+
+16:26:59.270 Temperature_(C): 19.70, Humidity_(%): 59.80, VOC_(PPM): 13688.12, CO2_(PPM): 565.00, PM1.0_(ug/m3): 3, PM2.5_(ug/m3): 3, PM10_(ug/m3): 3
+16:27:00.118 Temperature_(C): 19.80, Humidity_(%): 59.70, VOC_(PPM): 13945.60, CO2_(PPM): 566.00, PM1.0_(ug/m3): 3, PM2.5_(ug/m3): 3, PM10_(ug/m3): 3
+16:27:00.962 Temperature_(C): 19.80, Humidity_(%): 59.70, VOC_(PPM): 12351.62, CO2_(PPM): 568.00, PM1.0_(ug/m3): 3, PM2.5_(ug/m3): 3, PM10_(ug/m3): 3
+16:27:01.900 Temperature_(C): 19.90, Humidity_(%): 60.20, VOC_(PPM): 13112.35, CO2_(PPM): 569.00, PM1.0_(ug/m3): 3, PM2.5_(ug/m3): 3, PM10_(ug/m3): 3
+16:27:02.744 Temperature_(C): 19.90, Humidity_(%): 60.20, VOC_(PPM): 11354.52, CO2_(PPM): 570.00, PM1.0_(ug/m3): 3, PM2.5_(ug/m3): 3, PM10_(ug/m3): 3
+16:27:03.584 Temperature_(C): 19.80, Humidity_(%): 60.20, VOC_(PPM): 12319.12, CO2_(PPM): 570.00, PM1.0_(ug/m3): 3, PM2.5_(ug/m3): 3, PM10_(ug/m3): 3
+16:27:04.489 Temperature_(C): 19.80, Humidity_(%): 60.20, VOC_(PPM): 12049.26, CO2_(PPM): 571.00, PM1.0_(ug/m3): 1, PM2.5_(ug/m3): 1, PM10_(ug/m3): 1
+16:27:05.353 Temperature_(C): 19.80, Humidity_(%): 60.20, VOC_(PPM): 12049.26, CO2_(PPM): 572.00, PM1.0_(ug/m3): 1, PM2.5_(ug/m3): 1, PM10_(ug/m3): 1
+
+16:27:37.566 Temperature_(C): 20.20, Humidity_(%): 59.70, VOC_(PPM): 12273.51, CO2_(PPM): 593.00, PM1.0_(ug/m3): 2, PM2.5_(ug/m3): 2, PM10_(ug/m3): 2
+16:27:38.485 Temperature_(C): 20.20, Humidity_(%): 60.00, VOC_(PPM): 11721.26, CO2_(PPM): 593.00, PM1.0_(ug/m3): 0, PM2.5_(ug/m3): 0, PM10_(ug/m3): 0
+16:27:39.343 Temperature_(C): 20.20, Humidity_(%): 60.00, VOC_(PPM): 12252.84, CO2_(PPM): 593.00, PM1.0_(ug/m3): 0, PM2.5_(ug/m3): 0, PM10_(ug/m3): 0
+16:27:40.195 Temperature_(C): 20.20, Humidity_(%): 59.70, VOC_(PPM): 12273.51, CO2_(PPM): 594.00, PM1.0_(ug/m3): 0, PM2.5_(ug/m3): 0, PM10_(ug/m3): 0
+16:27:41.105 Temperature_(C): 20.20, Humidity_(%): 59.70, VOC_(PPM): 11483.05, CO2_(PPM): 594.00, PM1.0_(ug/m3): 0, PM2.5_(ug/m3): 0, PM10_(ug/m3): 0
+16:27:41.953 Temperature_(C): 20.20, Humidity_(%): 59.60, VOC_(PPM): 12417.13, CO2_(PPM): 595.00, PM1.0_(ug/m3): 0, PM2.5_(ug/m3): 0, PM10_(ug/m3): 0
+
+16:28:00.271 Temperature_(C): 20.50, Humidity_(%): 59.30, VOC_(PPM): 12130.11, CO2_(PPM): 601.00, PM1.0_(ug/m3): 1, PM2.5_(ug/m3): 1, PM10_(ug/m3): 1
+16:28:01.107 Temperature_(C): 20.50, Humidity_(%): 59.30, VOC_(PPM): 10853.90, CO2_(PPM): 601.00, PM1.0_(ug/m3): 1, PM2.5_(ug/m3): 1, PM10_(ug/m3): 1
+16:28:02.029 Temperature_(C): 20.40, Humidity_(%): 59.10, VOC_(PPM): 11627.90, CO2_(PPM): 600.00, PM1.0_(ug/m3): 1, PM2.5_(ug/m3): 1, PM10_(ug/m3): 1
+16:28:02.864 Temperature_(C): 20.40, Humidity_(%): 59.10, VOC_(PPM): 10518.40, CO2_(PPM): 600.00, PM1.0_(ug/m3): 1, PM2.5_(ug/m3): 1, PM10_(ug/m3): 1
+16:28:03.699 Temperature_(C): 20.40, Humidity_(%): 59.10, VOC_(PPM): 10756.01, CO2_(PPM): 601.00, PM1.0_(ug/m3): 1, PM2.5_(ug/m3): 1, PM10_(ug/m3): 1
+16:28:04.640 Temperature_(C): 20.40, Humidity_(%): 59.30, VOC_(PPM): 10274.17, CO2_(PPM): 601.00, PM1.0_(ug/m3): 1, PM2.5_(ug/m3): 1, PM10_(ug/m3): 1
+
+16:28:30.906 Temperature_(C): 20.50, Humidity_(%): 60.00, VOC_(PPM): 7884.57, CO2_(PPM): 597.00, PM1.0_(ug/m3): 6, PM2.5_(ug/m3): 8, PM10_(ug/m3): 8
+16:28:31.838 Temperature_(C): 20.50, Humidity_(%): 60.00, VOC_(PPM): 8441.61, CO2_(PPM): 597.00, PM1.0_(ug/m3): 9, PM2.5_(ug/m3): 11, PM10_(ug/m3): 11
+16:28:32.758 Temperature_(C): 20.70, Humidity_(%): 59.90, VOC_(PPM): 8055.18, CO2_(PPM): 597.00, PM1.0_(ug/m3): 10, PM2.5_(ug/m3): 13, PM10_(ug/m3): 13
+16:28:33.667 Temperature_(C): 20.70, Humidity_(%): 59.90, VOC_(PPM): 8526.06, CO2_(PPM): 596.00, PM1.0_(ug/m3): 11, PM2.5_(ug/m3): 14, PM10_(ug/m3): 14
+16:28:34.585 Temperature_(C): 20.60, Humidity_(%): 59.60, VOC_(PPM): 8356.97, CO2_(PPM): 596.00, PM1.0_(ug/m3): 13, PM2.5_(ug/m3): 16, PM10_(ug/m3): 16
+16:28:35.496 Temperature_(C): 20.60, Humidity_(%): 59.60, VOC_(PPM): 8452.38, CO2_(PPM): 596.00, PM1.0_(ug/m3): 13, PM2.5_(ug/m3): 18, PM10_(ug/m3): 18
+
+16:28:44.412 Temperature_(C): 20.70, Humidity_(%): 59.10, VOC_(PPM): 15275.37, CO2_(PPM): 592.00, PM1.0_(ug/m3): 9, PM2.5_(ug/m3): 13, PM10_(ug/m3): 13
+16:28:45.251 Temperature_(C): 20.70, Humidity_(%): 59.10, VOC_(PPM): 11593.98, CO2_(PPM): 592.00, PM1.0_(ug/m3): 9, PM2.5_(ug/m3): 13, PM10_(ug/m3): 13
+16:28:46.112 Temperature_(C): 20.70, Humidity_(%): 59.10, VOC_(PPM): 12391.58, CO2_(PPM): 592.00, PM1.0_(ug/m3): 9, PM2.5_(ug/m3): 13, PM10_(ug/m3): 13
+16:28:47.025 Temperature_(C): 20.70, Humidity_(%): 59.00, VOC_(PPM): 12126.94, CO2_(PPM): 591.00, PM1.0_(ug/m3): 7, PM2.5_(ug/m3): 11, PM10_(ug/m3): 11
+16:28:47.867 Temperature_(C): 20.70, Humidity_(%): 59.00, VOC_(PPM): 13395.27, CO2_(PPM): 590.00, PM1.0_(ug/m3): 7, PM2.5_(ug/m3): 11, PM10_(ug/m3): 11
+16:28:48.737 Temperature_(C): 20.80, Humidity_(%): 59.10, VOC_(PPM): 12243.20, CO2_(PPM): 590.00, PM1.0_(ug/m3): 7, PM2.5_(ug/m3): 11, PM10_(ug/m3): 11
+16:28:49.644 Temperature_(C): 20.80, Humidity_(%): 59.10, VOC_(PPM): 13522.95, CO2_(PPM): 590.00, PM1.0_(ug/m3): 7, PM2.5_(ug/m3): 10, PM10_(ug/m3): 10
+16:28:50.495 Temperature_(C): 20.80, Humidity_(%): 58.90, VOC_(PPM): 13389.75, CO2_(PPM): 590.00, PM1.0_(ug/m3): 7, PM2.5_(ug/m3): 10, PM10_(ug/m3): 10
+
+16:29:18.398 Temperature_(C): 20.90, Humidity_(%): 58.40, VOC_(PPM): 15991.10, CO2_(PPM): 588.00, PM1.0_(ug/m3): 0, PM2.5_(ug/m3): 1, PM10_(ug/m3): 1
+16:29:19.262 Temperature_(C): 20.90, Humidity_(%): 58.30, VOC_(PPM): 15147.34, CO2_(PPM): 588.00, PM1.0_(ug/m3): 0, PM2.5_(ug/m3): 1, PM10_(ug/m3): 1
+16:29:20.103 Temperature_(C): 20.90, Humidity_(%): 58.30, VOC_(PPM): 15483.06, CO2_(PPM): 589.00, PM1.0_(ug/m3): 0, PM2.5_(ug/m3): 1, PM10_(ug/m3): 1
+16:29:21.017 Temperature_(C): 20.90, Humidity_(%): 57.00, VOC_(PPM): 14443.19, CO2_(PPM): 589.00, PM1.0_(ug/m3): 0, PM2.5_(ug/m3): 1, PM10_(ug/m3): 1
+16:29:21.855 Temperature_(C): 20.90, Humidity_(%): 57.00, VOC_(PPM): 16117.15, CO2_(PPM): 589.00, PM1.0_(ug/m3): 0, PM2.5_(ug/m3): 1, PM10_(ug/m3): 1
+16:29:22.728 Temperature_(C): 20.90, Humidity_(%): 57.20, VOC_(PPM): 14747.52, CO2_(PPM): 589.00, PM1.0_(ug/m3): 0, PM2.5_(ug/m3): 1, PM10_(ug/m3): 1
+16:29:23.639 Temperature_(C): 20.90, Humidity_(%): 57.20, VOC_(PPM): 15923.87, CO2_(PPM): 590.00, PM1.0_(ug/m3): 0, PM2.5_(ug/m3): 1, PM10_(ug/m3): 1
+
